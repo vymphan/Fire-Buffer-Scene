@@ -1,1 +1,13 @@
-Created a fire buffer scence using C and SDL3 library
+Created a fire buffer scene using C and SDL3 library
+
+To build: run the following command in the directory where Makefile is
+
+```
+make
+```
+
+To run after building:
+```
+make run
+```
+
